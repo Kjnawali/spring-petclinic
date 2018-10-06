@@ -216,13 +216,13 @@
     <distributionManagement>
     <repository>
         <id>central</id>
-        <name>03e55dba0c0e-releases</name>
-        <url>http://10.1.10.35:8081/artifactory/maven</url>
+        <name>00a12580b3e2-releases</name>
+        <url>http://18.205.244.105:8081/artifactory/maven</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>03e55dba0c0e-snapshots</name>
-        <url>http://10.1.10.35:8081/artifactory/maven</url>
+        <name>00a12580b3e2-snapshots</name>
+        <url>http://18.205.244.105:8081/artifactory/maven</url>
     </snapshotRepository>
 </distributionManagement>
 
